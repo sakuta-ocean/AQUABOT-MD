@@ -1,79 +1,81 @@
 {
-    "LANGUAGE": "English",
-    "LANGCODE": "en",
-    "AUTHOR"  : "sanuwa official",
+    "LANGUAGE": "العربية",
+    "LANGCODE": "ar",
+    "AUTHOR"  : "ساكوتا",
     "STRINGS" : { 
                   "aqua" : {   
-                            "COMMAND"  : "Command",
-                            "DESC"     : "Description",
-                            "EXAMPLE"  : "Example",
-                            "NOT_FOUND": "*I couldnt find a command like this*",
-                            "WARN"     : "Warn"
+                            "COMMAND"  : "امر",
+                            "DESC"     : "وصف",
+                            "EXAMPLE"  : "مثال",
+                            "NOT_FOUND": "*مافي امر زي كذا يا الغالي*",
+                            "WARN"     : "تحذير"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ENTER A SONG NAME*\nex : .song faded" ,
-                            "NOT_SONG" : "*SONG NOT FOUND‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_SONG"   : "*🧜‍♀️💬حط اسم الاغنية*\nex : .song faded" ,
+                            "NOT_SONG" : "*الاغنية مو موجودة‼️*" ,
+                            "S_YT"     : "*🔍بحث في اليوتيوب...*" ,
+                            "N_YT"     : "*🧜‍♀️💬حط الموضوع* \nex : .getyt sri lanka cricket" ,
+                            "N_VID"    : "*🧜‍♀️💬حط رابط فيديو من اليوتيوب*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*🧜‍♀️💬حط رابط فيديو من الفيسبوك*" , 
+                            "N_MF"     : "*🧜‍♀️💬حط رابط من الميديافاير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬حط رابط فيديو من التيك توك*" ,
+                            "NOT_VID"  : "*لو سمجت الفيديو مو موجود‼️*", 
+                            "N_IG "    : "🧜‍♀️💬حط رابط من الانستا",
+                            "N_FOUND"  : "*مالقيته‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": "*You are not admin in this group!*",
-                             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-                             "BANNED": "kicked out of the group!",
-                             "GIVE_ME_USER": "*Give me a user!*" ,
-                             "USER_IS_ADMIN" : "*Can not kick group Admins!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
-                             "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
-                             "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
-                             "PROMOTE"       : "has been promoted !",
-                             "DEMOTE"        : "has been demoted !"
+                             "UR_NOT_ADMIN": "*منت مشرف يا هطف الامل ذا بس للمشرفين!*",
+                             "IM_NOT_ADMIN": "*انا ماني مشرف هات اشراف عشان اسةي الامر!*",
+                             "BANNED": "طرد من المجموعة!",
+                             "GIVE_ME_USER": "*عطيني المستخدم!*" ,
+                             "USER_IS_ADMIN" : "*مايمديك تطرد المشرفين!*" ,
+                             "ADDED"         : "تمت اضافته الى المجموعة!!" ,
+                             "E_USER"        : "*🧜‍♀️💬أدخل الرقم المراد إضافته إلى المجموعة مع رمز البلد بدون علامة + ومسافة
+.*"
+                             "ISN_ADMIN"     : "*🧜‍♀️💬الشخص اللي منشنته مو مشرف في القروب.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬الشخص اللي منشنته هو مؤسس القروب.*",
+                             "MUTE"          : "*🧜‍♀️💬تم كتم القروب!.*",
+                             "UNMUTE"        : "*🧜‍♀️💬تم فك الكتم عن القروب!.*",
+                             "PROMOTE"       : "تم ترقيته وصار اعلى من بعض الناس !",
+                             "DEMOTE"        : "تم تخفيضه وصار هطف !"
     
                            } ,
                 "stic" : {
-                              "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
-                              "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
-                              "C_IMG"  : "```🧰converting sticker to image...```" ,
-                              "C_VID"  : "```🧰converting animated sticker to video...```" 
+                              "NEED"   : "*🧜‍♀️💬 منشن الصورة او الفيديو*" ,
+                              "C_STIC" : "```🧰استنى شوي الملصق قاعد يجهز...```" ,
+                              "N_STIC" : "*🧜‍♀️💬 منشن الملصق.*" ,
+                              "C_IMG"  : "```🧰تحويل من الملصق الى صورة...```" ,
+                              "C_VID"  : "```🧰تحويل الملصق المتحرك الى صورة...```" 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*🧜‍♀️💬 حط رابط التطبيق من قوقل بلاي .*" ,
+                              "ERROR"  : "*🧜‍♀️💬ما لقيت حزمة APK!.*"
     
                            },
          "filters": {
-            "FILTER_DESC": "It adds a filter. If someone writes your filter, it send the answer. If you just write .filter, it show's your filter list.",
-            "NO_FILTER": "*❌ There are no filters in this chat!*",
-            "FILTERS": "*🔎 There is your filters in this chat:*",
-            "NEED_REPLY": "*❌ Please type in reply!*\n*Example:*",
-            "FILTERED": "*✅ Successfully set* ```{}``` *to filter!*",
-            "STOP_DESC": "Stops the filter you added previously.",
-            "NEED_FILTER": "*❌ Please type a filter!*\n*Example:*",
-            "ALREADY_NO_FILTER": "*❌ There is already no filter like this!*",
-            "DELETED": "*✅ The filter was successfully deleted!*"
+            "FILTER_DESC": "يضيف مرشح. إذا كتب شخص ما عامل التصفية الخاص بك ، فسيتم إرسال الإجابة. إذا كتبت للتو .filter ، فستظهر قائمة عوامل التصفية الخاصة بك
+.",
+            "NO_FILTER": "*❌ مافي فلتره للشات ذا!*",
+            "FILTERS": "*🔎 عندك فلتره انت هنا:*",
+            "NEED_REPLY": "*❌ بالله اكتب الرد ذا!*\n*Example:*",
+            "FILTERED": "*✅ تم الضبط بنجاح ياورع* ```{}``` *to filter!*",
+            "STOP_DESC": "يوقف المرشح الذي أضفته مسبقًا.",
+            "NEED_FILTER": "*❌ اكتب الفلتر كويس!*\n*Example:*",
+            "ALREADY_NO_FILTER": "*❌ مافي فلتر زي ذا تاكد من كتابته اذا هي صح ولا لا!*",
+            "DELETED": "*✅ تم حذف الفلتر بنجاح!*"
         },
         "greetings": {
-            "NOT_SET_WELCOME": "*🧜‍♀️💬You don't set the welcome message yet.!*\n**To set:** ```.welcome hi && hi#how are you?```",
-            "WELCOME_ALREADY_SETTED": "*✅ Welcome message already set!*\n*Message:* ```",
-            "NEED_WELCOME_TEXT": "*🧜‍♀️💬You must write a message to set up the welcome message.*\n*Example:* ```.welcome hi && hi#how are you?```",
+            "NOT_SET_WELCOME": "*🧜‍♀️💬لم تقم بتعيين رسالة الترحيب بعد.!*\n**To set:** ```.welcome hi && hi#how are you?```",
+            "WELCOME_ALREADY_SETTED": "*✅ تم تعيين رسالة الترحيب بنجاح*\n*Message:* ```",
+            "NEED_WELCOME_TEXT": "*🧜‍♀️💬يجب عليك كتابة رسالة لإعداد رسالة الترحيب.*\n*Example:* ```.welcome hi && hi#how are you?```",
             "WELCOME_DELETED": "*✅ Welcome message has been deleted successfully!*",
-            "WELCOME_SETTED": "*✅ Welcome message has been set successfully!*",
-            "NOT_SET_GOODBYE": "*🧜‍♀️💬You didn't set a goodbye message!*\n*To set:* ```.goodbye bye && bye#see ya```",
-            "GOODBYE_ALREADY_SETTED": "*✅ Goodbye message has been set!*\n*Message:* ```",
-            "NEED_GOODBYE_TEXT": "*🧜‍♀️💬You must write a message to set up the goodbye message.*\n*Example:* ```.goodbye bye && bye#see ya```",
-            "GOODBYE_DELETED": "*✅ Goodbye message has been deleted successfully!*",
-            "GOODBYE_SETTED": "*✅ Goodbye message has been setted successfully!*"
+            "WELCOME_SETTED": "*✅ تم حذف رسالة الترحيب بنجاح!*",
+            "NOT_SET_GOODBYE": "*🧜‍♀️💬لم تقم بتعيين رسالة وداع!*\n*To set:* ```.goodbye bye && bye#see ya```",
+            "GOODBYE_ALREADY_SETTED": "*✅ تم تعيين رسالة الوداع!*\n*Message:* ```",
+            "NEED_GOODBYE_TEXT": "*🧜‍♀️💬يجب عليك كتابة رسالة لإعداد رسالة الوداع.*\n*Example:* ```.goodbye bye && bye#see ya```",
+            "GOODBYE_DELETED": "*✅ تم حذف رسالة الوداع بنجاح!*",
+            "GOODBYE_SETTED": "*✅ تم تحديد رسالة الوداع بنجاح!*"
         }
 
 
